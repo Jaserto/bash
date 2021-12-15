@@ -1,0 +1,10 @@
+#!bin/bash
+
+
+
+
+echo  "Menu"
+echo "Copy a file"
+echo "Remove a file"
+echo "Rename a file
+"
